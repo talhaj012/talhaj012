@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Talha Jaan
-- 👀 I’m interested in doing lot of interesting and creative project, and exploring new incomming technologies in this field of IT.
+- 👀 I’m interested in doing a lot of interesting and creative projects and exploring new incomming technologies in this field of IT.
 - 🌱 I’m currently learning BS. Computer Science 
 - 📫 You can reach me through this email : 2019cs44@student.uet.edu.pk
 - I'm a FLutter Enthusiast.
